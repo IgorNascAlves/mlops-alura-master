@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_basicauth import BasicAuth
 from textblob import TextBlob
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 import pickle
 import os
 
